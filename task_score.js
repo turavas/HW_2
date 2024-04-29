@@ -9,4 +9,4 @@ let avgScore = (introScore + gitScore + jsScore)/3;
 let studentName = "Anna";
 let studentSirname = "Poup";
 
-console.log(`${studentName} ${studentSirname}: Средний балл по трем модулям равен ${avgScore}`);
+console.log(`${studentName.slice(0,1)}.${studentSirname}: Средний балл по трем модулям равен ${avgScore}`);
