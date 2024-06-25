@@ -1,0 +1,11 @@
+{
+  "name": "first_project",
+  "version": "1.0.0",
+  "description": "2_4_3_task",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Sviatlana Turava",
+  "license": "ISC"
+}
